@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm passionate about how AI and machine learning can transform industries and society positively. I am eager to contribute to projects that aim for a positive societal impact. I am currently learning about energy markets and enabling a sustainable grid. 
+I'm passionate about how AI and machine learning can transform industries and society positively. I'm currently working at Fortum in Stockholm, where I’m learning about energy markets and contributing to the transition toward a more sustainable power system.
 
 ## 🎓 Education
 
